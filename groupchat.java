@@ -10,7 +10,7 @@ class groupchat
   public static void main(String[] args)
    {
      if (args.length !=2) {
-       System.out.println("Two arguments required <multicast-host> <port-number>");
+       System.out.println("Enter Your adress please -\/-");
      }else{
               try
                  {
