@@ -10,7 +10,7 @@ class groupchat
   public static void main(String[] args)
    {
      if (args.length !=2) {
-       System.out.println("Enter Your adress please -\/-");
+       System.out.println("Enter Your address please -\/-");
      }else{
               try
                  {
